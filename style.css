@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link-primary {
+  @apply w-full p-3 text-gray-800 bg-gray-50 rounded-md hover:bg-gray-200 transition-all duration-300 truncate font-semibold
+}
