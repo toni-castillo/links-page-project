@@ -6,4 +6,4 @@ Initially I followed [this short tutorial](https://www.youtube.com/watch?v=Qog6R
 
 ![Screenshot of the links page](https://user-images.githubusercontent.com/88142313/189352733-359d27f1-14a5-4da6-ae58-9b25daa55277.jpg)
 
-🔗 https://eclectic-jalebi-b4109f.netlify.app/
+🔗 https://links.tonicastillo.net/
