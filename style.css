@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #977a38;
+}
+
 .link-primary {
-  @apply w-full max-w-sm p-3 text-gray-800 bg-gray-50 rounded-md hover:bg-gray-200 transition-all duration-300 truncate font-semibold
+  @apply w-full max-w-sm p-3 text-[#50421d] bg-gray-50 rounded-md hover:bg-gray-200 transition-all duration-300 truncate font-semibold
 }
